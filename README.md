@@ -12,6 +12,7 @@ Data driven prediction of energy use of appliances
 ## Running the software
 
 To run the software, navigate to the top level directory and type
+
 ```jupyter-notebook Applicance_Energy_Prediction.ipynb```
 
 
